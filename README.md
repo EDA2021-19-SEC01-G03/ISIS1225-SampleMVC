@@ -1,4 +1,4 @@
-Integrantes del equipo: 
+#Integrantes del equipo: 
 --
 Ana Sofía Castellanos Mosquera 
 Correo: a.castellanosm@uniandes.edu.co
