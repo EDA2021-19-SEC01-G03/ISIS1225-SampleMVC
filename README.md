@@ -1,3 +1,12 @@
+Integrantes del equipo: 
+--
+Ana Sofía Castellanos Mosquera 
+Correo: a.castellanosm@uniandes.edu.co
+Código: 202114167
+--
+
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
