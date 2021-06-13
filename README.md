@@ -1,7 +1,9 @@
 #Integrantes del equipo: 
 
 Ana Sofía Castellanos Mosquera 
+
 Correo: a.castellanosm@uniandes.edu.co
+
 Código: 202114167
 
 
